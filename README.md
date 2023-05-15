@@ -1,5 +1,5 @@
 👋 Hi, I'm @JulioCezar7
-👀 Estudando  Sistemas de Informação.
+👀 Studying Information Systems.
 🌱 I'm currently learning python and I intend to start java
 📫 How to reach me by email juliocezarc871@gmail.com
 
