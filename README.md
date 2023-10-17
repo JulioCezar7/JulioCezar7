@@ -1,6 +1,6 @@
 👋 Hi, I'm @JulioCezar7
 👀 Studying Information Systems.
-🌱 I'm currently learning HTML
+🌱 I'm currently learning Full-Stake
 📫 How to reach me by email juliocezarc871@gmail.com
 
 <!---
